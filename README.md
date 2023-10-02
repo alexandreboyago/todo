@@ -13,6 +13,6 @@ FullyQualifiedErrorId : UnauthorizedAccess
 
 ## Execute o comando abaixo no terminal do VSCode:
 
-### Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+`Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
 
 02/10/2023
